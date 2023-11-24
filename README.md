@@ -1,6 +1,6 @@
 # Landmark-Classification-Tagging-for-Social-Media
 Convolutional Neural Network: Landmark Classification &amp; Tagging for Social Media
-
+ 
 
 In this project, I applied the skills I have acquired in the Convolutional Neural Network (CNN) course to build a landmark classifier.
 
